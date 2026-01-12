@@ -1,5 +1,10 @@
 # AgenteImpresion2026yCajon_v1.3
 
+AGENTE DE IMPRESIÓN
+
+1- Ejecutar el script como ADMINISTRADOR : installServAgenteImpSurfTpv_V1.2.bat
+2- Se crea una estructura con todos los archivos en C:\SurfTPV
+3- Se instala el servicio de AgenteDeImpresión automaticamente, comprobar funcionamiento tras instalación
 
 CAJÓN Portamonedas en WINDOWS
 
