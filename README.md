@@ -15,4 +15,4 @@ CAJÓN Portamonedas en WINDOWS
 4- Mover ahí cajon.ahk para que la app AutoHotKey se auto arranque con el sistema y esté escuchando el F3 para abrir el cajón, editar este archivo si se quiere cambiar la tecla
 
 
-5- Poner acceso directo en Windows de apetura de cajón por si acaso. C:\SurfTPV\CajonPortamonedas\AccesoDirectoEscritorioWin10_11\AbreCajon
+5- Poner acceso directo en Windows de apetura de cajón por si acaso. C:\SurfTPV\CajonPortamonedas\AccesoDirectoEscritorioWin10_11\AbreCajon.lnk
